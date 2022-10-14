@@ -1,0 +1,8 @@
+https://mp.weixin.qq.com/s/yjOGhrKTz2ytBaBF_auq4w    // 高效编码必备的 7 个 VS Code 插件
+https://mp.weixin.qq.com/s/apG1klvPmymgaEbDG1Sz4w    // 【前端特效 84】CSS 3D波浪加载特效
+https://blog.csdn.net/qq449245884/category_9873715.html     // CSS创意特效 (第一季)
+https://blog.csdn.net/qq449245884/category_10212382.html?utm_source=ffzl_BWzd    // CSS创意特效(第二季)
+https://mp.weixin.qq.com/s/6Xnhc7P2agvT6URAb6_KTg   // css 服务条款的一种展示特效
+https://mp.weixin.qq.com/s/dnj9sMu5XBHwM-z0lnxMww    // CSS加载文本动画特效(头条)
+xxxxx   // 更多 css 特性以后开发中遇到了可以到大千世界公众号去找
+https://blog.csdn.net/qq_23832313/article/details/83578836   // ubuntu 安装 nginx
