@@ -98,3 +98,14 @@ vue-calendar-component      // 日历
 tabs-slider    // tab 滑动的插件
 d3     // 可视化
 highcharts    // 可视化  带 3d 饼图
+html2canvas     // 某块内容变成图片
+@hyoga/uni-socket.io      // uni-app socket
+uni-read-pages    // uni-app 读取 pages 目录
+uni-simple-router    // uni-app 路由管理
+vue-meta    // 配置每个页面标题，非常牛逼好用
+wangeditor    // 富文本编辑器，不推荐使用这个，会有图片有时无法居中的 bug
+photo-sphere-viewer     // 3d vr
+qrcode    // 二维码
+@antv/data-set，@antv/f2，@antv/g2     // 可视化图片
+vue-qr    // 二维码
+image-cropper  // 图片裁剪
