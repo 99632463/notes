@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <script>
+    /*promise特点*/
+		/*1.创建时必须创建一个函数，否则会报错
+			2.会给传入的函数设置两个回调函数
+			3.刚创建的promise对象状态是pending
+			4.状态一旦发生改变，就不可再改变
+			5.可以通过then来监听状态的改变
+			6.状态改变，立即执行监听的回调
+			7.如果添加监听时状态还未改变，那么状态改变了再执行监听回调
+			8.同一个promise可以添加多个then监听，状态改变时所有的监听按照顺序执行
+			9.promise.then  返回新的promise
+			10.上一个成功回调或失败回调 都 传给下一个成功回调
+			11.如果上一个成功回调里return的是promise,
+      那么下一个成功回调根据上一个promise状态走成功还是走失败
+			12.上一个promise和下一个promise的状态必须相同
+      13.后一个promise需要能捕获到前一个promise的异常
+      14.catch方法实现
+      15.实现promise.all
+      16.实现promise.race
+    */
+
+    const PENDING = 'pending';
+    const FULLIFILLED = 'fullifilled';
+    const FAILED = 'failed';
+
+    class MyPromise {
+      constructor(handle) {
+        if (!this._isFunction(handle)) {
+          throw new Error('please incoming a function !');
+        }
+        this.status = PENDING;
+        this.value = null;
+        this.reason = null;
+        this.onResolveCallBacks = [];
+        this.onRejectCallBacks = [];
+
+        handle(this.resolve.bind(this), this.reject.bind(this));
+      }
+      resolve(value) {
+        if (this.status === PENDING) {
+          this.status = FULLIFILLED;
+          this.value = value;
+          this.onResolveCallBacks.forEach(fn => this.value && fn(this.value));
+        }
+      }
+      reject(reason) {
+        if (this.status === PENDING) {
+          this.status = FAILED;
+          this.reason = reason;
+          this.onRejectCallBacks.forEach(fn => this.reason && fn(this.reason));
+        }
+      }
+      then(onResolve, onReject) {
+        let result;
+
+        return new MyPromise((nextResolve, nextReject) => {
+          if (this._isFunction(onResolve)) {
+            if (this.status === FULLIFILLED) {
+              try {
+                result = onResolve(this.value);
+                if (result instanceof MyPromise) {
+                  result.then(nextResolve, nextReject);
+                }
+                else {
+                  nextResolve(result);
+                }
+              }
+              catch (e) {
+                nextReject(e);
+              }
+            }
+          }
+          try {
+            if (this.status === FAILED) {
+              result = onReject(this.reason);
+              if (result instanceof MyPromise) {
+                result.then(nextResolve, nextReject);
+              }
+              else if (result) {
+                nextResolve(result);
+              }
+              else {
+                nextReject();
+              }
+            }
+          }
+          catch (e) {
+            nextReject(e)
+          }
+
+
+          if (this.status === PENDING) {
+            if (this._isFunction(onResolve)) {
+              this.onResolveCallBacks.push((value) => {
+                try {
+                  result = onResolve(value);
+                  if (result instanceof MyPromise) {
+                    result.then(nextResolve, nextReject);
+                  }
+                  else {
+                    nextResolve(result);
+                  }
+                }
+                catch (e) {
+                  nextReject(e);
+                }
+              });
+            }
+            this.onRejectCallBacks.push((reason) => {
+              try {
+                result = onReject(reason);
+                if (result instanceof MyPromise) {
+                  result.then(nextResolve, nextReject);
+                }
+                else if (result) {
+                  nextResolve(result);
+                }
+                else {
+                  nextReject();
+                }
+              }
+              catch (e) {
+                nextReject(e);
+              }
+            });
+          }
+        })
+      }
+      catch(onRejectCallBack) {
+        return this.then(undefined, onRejectCallBack);
+      }
+      static all(list) {
+        return new MyPromise(function (resolve, reject) {
+          const arr = [];
+          const count = 0;
+          for (let i = 0, len = list.length; i < len; i++) {
+            list[i].then(function (value) {
+              arr.push(value);
+              count++;
+              if (list.length === count) {
+                resolve(arr);
+              }
+            }).catch(function (e) {
+              reject(e);
+            })
+          }
+        });
+      }
+
+      static race(list) {
+        return new MyPromise(function (resolve, reject) {
+          const arr = [];
+          for (let i = 0, len = list.length; i < len; i++) {
+            list[i].then(function (value) {
+              resolve(value);
+            }).catch(function (e) {
+              reject(e);
+            })
+          }
+        });
+      }
+      _isFunction(fn) {
+        return typeof fn === 'function';
+      }
+    }
+
+    const p = new MyPromise((resolve, reject) => {
+      // resolve(111);
+      // setTimeout(() => resolve(1111), 2000);
+      reject(2222);
+      // setTimeout(() => reject(2222), 2000);
+    });
+    const p1 = p.then(function () {
+      console.log('succ');
+    })
+      .catch(function (err) {
+        console.log('err: ', err);
+      })
+  </script>
+</head>
+
+<body>
+</body>
+
+</html>

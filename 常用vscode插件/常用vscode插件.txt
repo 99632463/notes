@@ -1,0 +1,35 @@
+﻿常用 vscode 插件：
+auto rename tag
+Chinese
+beautify css/sass/scss/less
+css modules     // 没什么用
+es7 react/redux/...
+eslint
+git history
+gitlens 
+html snippets
+live server
+html to jsx
+markdown preview enhanced
+npm
+npm intellisence
+path intellisence
+scss formatter
+css formatter
+typescript react code snippets
+vetur
+vetur-wepy
+wpy-beautiful
+IntelliSense for CSS class names in HTML   
+Bracket Pair Colorizer
+javascript console  utils
+Prettier  
+vue peek
+vue-helper
+REST Client  发请求
+javascript(es6) code snippets   // es6 语法提示
+code runner  // 运行各种语言
+easy less/scss   // less，scss 自动编译成 css
+px to rem & rpx & vw （cssrem）  // css 单位转换
+px to rpx,  px to -vw， rpx2vw，px2rem   // css 单位转换
+uniapp-snippet    // uni-app 片段展示

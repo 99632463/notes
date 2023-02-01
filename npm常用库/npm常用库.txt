@@ -1,0 +1,119 @@
+﻿rc-animate                      //react动画
+rc-animate-height               //react动画
+react-transition-group          //react动画
+CSSTransitionGroup              //react动画
+react-quill                     //富文本选择器 (react)
+rc-canlendar                    // react 日历
+react-loadable                  // react 懒加载
+react-lazy                      // react 懒加载
+rc-dialog                       //弹框
+react-draggable                 //拖拽 (react)
+interactjs                      //拖拽
+dropzone                        //附件上传
+react-slide                     //滑动 (react)
+react-slick                     //滑动 (react)
+viewerjs                        //图片放大
+html2pdf.js                     //html 转 pdf
+bootbox                         //弹框
+store                           //localStorage
+js-cookie                       //cookie
+lodash                          //lodash
+moment                          //日期时间
+numeral                         //数字格式化
+axios                           //请求
+jsonp                           //jsonp
+classnames                      //class name
+del                             //清除，用于 gulp
+rc-form                         //表单验证
+react-custom-scrollbars         //滚动条  (react)
+react-text-mask                 //手机号码格式  (react)
+sweetalert2                     //弹框提示
+react-textarea-resize           //文本域随着内容的增多自适应大小  (react)
+date-fns                        //日期处理  比 moment 小
+dayjs                           //日期处理  比 moment 小
+mockjs                          // mock数据 库
+better-scroll                   //移动端滑动库
+iScroll                         //移动端滑动库
+swiper                          //移动端轮播库
+serve                           // 启动一个服务器，运行生产环境
+mint-ui                         // vue UI库
+element-ui                      // vue UI库
+material ui                     // react ui 库
+ant design                      // react ui 库
+nodemon                         // nodemon
+validator                       // 验证
+bcrypt                          // 加密
+
+puppeteer                       // 自动化测试框架
+
+
+readlineSync                    // 用于通过控制台（TTY）交互运行以与用户进行对话
+
+webpack-bundle-analyzer         // 可查看所有库的容量
+chalk                           // 控制台文本可以指定样式
+webpack-stream                  // 与 gulp 配合  使 npm run resource 有 hash
+open                            // 可以在指定浏览器中打开指定网页
+http-server                     // 开启一个 ip 服务器，外部可访问
+anywhere                        // 指定端口，配合 http-server 使用
+sha1                            // 对文本内容进行加密
+xmlreader                       // 解析 xml 数据
+md5-node                        // 密码加密
+xml2js                          // 解析 xml
+merge-descriptors               // 合并模块
+rc-tooltip                      // tooltip
+react-tagsinput                 // tagsInput
+clamp-js                        // 截取文本
+pickerjs                        // 日期选择插件
+qs                              // 一个可以将对象序列化的库
+prefect-scrollbars              // 滚动条
+rc-form                         // 表单组件
+dotenv                          // .env.develop
+react-test-renderer             // Dom 转变为 js对象  开发中不常用
+reselect                        // computed 计算属性
+
+Hotkeys      //设置按键
+fuse.js    // 模糊搜索
+vue-aplayer     // vue 播放器
+async-validator     // 异步验证表单
+driver.js    // 页面分布引导插件
+file-saver     // 文件保存器
+vuedraggable    // vue 拖拽
+xlsx     // excel 解析器
+vue-video-player     // vue 视频播放插件
+vue-quill-editor     // vue 富文本选择器
+svg-progress-bar     // svg 进度条
+flex.css        // 一个对 flex 布局做了很多兼容处理的库
+ol     // 地图
+projzh     // 地图相关的库
+os   (可以获取本机 ip 等信息)
+nprogress   进度条  顶部一条线
+cropper    //  裁剪
+js-file-download   // 可以下载 xlsx, docx 等
+awe-dnd  // 拖拽
+tingymce  富文本选择器
+trtc-sdk                // 腾讯云实时音视频
+UAParser.js          // JavaScript的User-Agent字符串解析器
+i18n                     // 生成多语言的库
+vue-calendar-component      // 日历
+tabs-slider    // tab 滑动的插件
+d3     // 可视化
+highcharts    // 可视化  带 3d 饼图
+wangeditor   //  富文本编辑器
+vue-qr   //  二维码
+@antv/g2，@antv/data-set    // 可视化
+@hyoga/uni-socket.io   // uni-app websocket
+uni-read-pages   // uni-app 读取 pages.json
+uni-simple-router   // uni-app 路由
+pinyin   // 汉语转拼音
+screenfull   // 可以将页面元素变为全屏
+qrcode   // 二维码
+vue-meta   // 让每个页面都显示 meta
+sort-word   // 可实现类似通讯录列表排序功能
+vue-seamless-scroll   // 上下无缝滚动，类似于那种广告上下滚动的
+vue-layer   // 一些弹框
+sortablejs   // 拖拽排序
+clipboard   // 复制粘贴
+driver.js   // 高亮某一块，可以做说明切换
+dropzone   // 可以拖拽上传文件
+vue-count-to   // 数字滚动
+draggable-el   // 整个窗口可以拖拽

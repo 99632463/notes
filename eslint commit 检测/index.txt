@@ -1,0 +1,14 @@
+﻿eslint commit 检测：
+安装两个包  husky 和  lint-staged
+package.json 文件中配置 
+"husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.(ts|tsx)": [
+      "eslint",
+      "git add"
+    ]
+  }

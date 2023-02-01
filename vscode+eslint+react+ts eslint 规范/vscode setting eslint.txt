@@ -1,0 +1,35 @@
+{
+    "editor.tabSize": 2,
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0,
+    "eslint.options": {
+        "configFile": "./.eslintrc.json",
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true
+        },
+        "html",
+        "vue",
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "vue",
+            "autoFix": true
+        }
+    ],
+    "eslint.alwaysShowStatus": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.autoSave": "off"
+}
+
+注意  安装好相关插件依赖   配置好extends,plugins

@@ -1,0 +1,399 @@
+﻿http://www.51pptmoban.com/    ppt免费模板下载、
+
+稻壳儿，演界网 （收费ppt模板）
+
+http://www.typescriptlang.org/   //typescript学习文档
+
+https://www.bootcdn.cn/    前端框架资源库
+
+http://react-cn.github.io/react/ 
+
+https://www.webpackjs.com   //webpack文档
+
+https://npm.taobao.org/     淘宝镜像
+淘宝镜像使用步骤：
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+cnpm -v 
+npm config set registry https://registry.npm.taobao.org
+npm config get registry
+   
+
+jsfiddle.net   测试代码网站
+
+knockoutjs.com   knockoutjs官网
+
+v3.bootcss.com   
+
+http://www.jq22.com/    //jQuery插件网
+
+http://www.runoob.com  //菜鸟教程
+
+http://www.codertopic.com/?p=5707   //25个js面试题及答案
+
+wx28b00222c0709b10    //AppID
+
+链接：http://pan.baidu.com/s/1nvmPwvv 密码：u7pw    //mysql
+
+https://epay.163.com/main.htm  网易支付官网
+
+http://www.yidt.cn   //beyondAdmin
+
+mp.weixin.qq.com   //微信小程序官网
+
+http://www.thinkphp.cn    //thinkphp官网
+
+www.tongpankt.com   //童攀老师课堂
+
+https://bootswatch.com/
+
+vuejs.org
+
+https://reactjs.org/
+
+//图片网
+pexels.com 
+699pic.com
+image.baidu.com 
+花瓣网 
+
+https://cdnjs.com/libraries/Chart.js
+
+https://code.visualstudio.com/
+
+https://devopen.club/
+
+https://github.com/atom/atom/releases/tag/v1.31.2
+
+https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.24/browser.min.js    //jsx转js
+
+https://cli.angular.io/
+
+https://angular.io
+
+firebase.google.cn
+
+https://www.mongodb.com/download-center/community?jmp=nav
+
+https://github.com/vuejs/vue-cli/tree/dev/docs   //vue-cli3
+
+//测试请求远程服务器数据接口地址
+https://api.github.com/users   
+http://jsonplaceholder.typicode.com/
+
+https://github.com/douglascrockford/JSON-js   //json2.js
+
+http://amazeui.org/
+
+hemin.cn/jq    //jquery api文档
+
+chrome://flags/#autoplay-policy   //chrome配置官网
+例如  New history entries require a user gesture 置为enable
+Framebusting requires same-origin or a user gesture  置为disable
+可让chrome解决不支持媒体的一些bug
+
+
+安装路由  npm install vue-router --save-dev
+
+资源路由  npm install vue-resource --save-dev
+
+vue网络请求地址 http://jsonplaceholder.typicode.com/
+
+https://coding.net/u/buwangchuxin70/p/weibo/git
+https://coding.net/u/buwangchuxin70/p/music/git
+https://coding.net/u/buwangchuxin70/p/legou/git
+
+
+vs2015激活密钥
+专业版：HMGNV-WCYXV-X7G9W-YCX63-B98R2
+企业版：HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+
+//vs产品密钥
+专业版：HMGNV-WCYXV-X7G9W-YCX63-B98R2
+企业版：HM6NR-QXX7C-DFW2Y-8B82K-WTYJV   
+NYWVH HT4XC R2WYW 9Y3CM-X4V3Y     //vs2019
+
+mdn 很多人都在使用的文档
+
+ant design  react库网
+
+https://mongoosejs.com/docs/guide.html    //mongodb学习文档
+
+https://www.w3cschool.cn/javascript/
+
+https://developer.mozilla.org/zh-CN/
+
+https://www.runoob.com/js/js-tutorial.html
+
+https://juejin.im/welcome/frontend/JavaScript
+
+https://www.jianshu.com/p/258fba795ca2
+
+https://www.cnblogs.com/zhaoww/p/4909247.html
+
+http://es6.ruanyifeng.com/
+
+https://juejin.im/post/5d0644976fb9a07ed064b0ca    //43道 js 面试题
+https://juejin.im/post/5cffb431f265da1b7401f466    // TypeScript 高级技巧
+https://juejin.im/post/5cfe4b13f265da1bb13f26a8   //webpack4 的30个步骤打造优化到极致的 react 开发环境，如约而至
+
+https://juejin.im/post/5d003f51e51d454fbe24a661   //前端工作学习相关网站收集整理
+https://www.jianshu.com/p/02b12c600c7b      //vue 如何新建一个项目
+https://juejin.im/post/5d0878aaf265da1b83338f74      //8年前端经验总结
+https://juejin.im/post/5d085be0f265da1bac401937   掘金最污的 React16.x 图文视频教程(2万5千字长文-慎入)
+
+umaar.com/dev-tips/    //chrome开发者工具各种骚技巧
+
+https://leetcode-cn.com/problemset/all/     //一个超级牛逼, 功能非常强大的刷题网站，可以使用各种语言进行刷题
+
+https://docschina.org/     //印记中文
+
+git pull --rebase origin master   //将远程仓库的readme 文件拉下来，如github可能会出现这样的问题
+
+http://rap2.taobao.org/    // mock 数据
+
+
+https://juejin.im/post/5d59f2a451882549be53b170   // vue 面试题
+https://juejin.im/post/5d5f44dae51d4561df7805b4   // react 面试题
+http://www.ttpaihang.com/vote/rank.php?voteid=1360   // it 行业著名企业
+
+// vue.js 源码逐步剖析
+https://github.com/NLRX-WJC/Learn-Vue-Source-Code
+https://nlrx-wjc.github.io/Learn-Vue-Source-Code/complie/#_1-%E5%89%8D%E8%A8%80
+
+// 网易高级前端开发系列
+https://study.163.com/course/courseLearn.htm?courseId=1209644871&from=study#/learn/live?lessonId=1280177364&courseId=1209644871
+https://study.163.com/course/introduction.htm?courseId=1209595819&_trace_c_p_k2_=65badffe87c34b18af19778f9b3b77fe
+
+https://muyiy.vip/question/js/21.html   //木易杨前端进阶
+
+//使用React和TypeScript将ESLint添加到Webpack
+https://alexi_be3.hashnode.dev/adding-eslint-to-webpack-with-react-and-typescript-cjyeydqb6000x19s1nh0fei12  
+
+https://docs.qq.com/desktop   // 腾讯文档    
+
+https://www.jianshu.com/p/96d7558e643b   //npm淘宝镜像
+
+https://codepen.io/tag/csstransitiongroup/        //transitiongroup  各种动画效果
+
+
+https://youzan.github.io/vant/?source=vuejsorg#/zh-CN/button#dai-ma-yan-shi   //vant
+
+https://youzan.github.io/vant-weapp/#/intro    //vant  小程序版
+
+https://wepyjs.github.io/wepy-docs/     // 开发框架
+
+https://juejin.im/post/5e44002c6fb9a07c9f3fd135   // 25个你不得不知道的数组reduce高级用法
+https://juejin.im/post/5cc7afdde51d456e671c7e48   // 灵活运用JS开发技巧
+https://juejin.im/post/5e440fd4e51d4527271e8b79   // 2020必备VS Code 插件(内附 gif 图)
+
+// https://blog.csdn.net/chicong3044/article/details/100721298   // 如何在 react 中使用 webworker  
+http://www.ruanyifeng.com/blog/2018/07/web-worker.html   // html5  webworker
+
+
+// 翻墙
+服务器地址： idev.host
+端口号:  8188
+密码: wangdawu.com
+加密选择: chacha20
+
+
+// vpn
+5555 portal   HUB名是SMS-01
+5551 portal   HUB名是SMS
+
+
+chrome 翻墙工具
+1ClickVpn 
+hoxx vpm proxy
+astar vpn  free and fast vpn for everyone
+proxy  switchyOmega
+free vpn 
+
+https://www.it666.com/course/2/tasks    // 江哥带你玩转 C 语言
+
+https://docs.qq.com/doc/DQ3RSQUtvWldyaEJj   // 面试笔记 腾讯文档
+
+https://resume.zhaopin.com/04c70ff8e87d429d80e8a6346a7a7fba   // 智联简历模板
+上海大厂 : 
+https://zhuanlan.zhihu.com/p/115595163   
+
+https://juejin.im/post/5c01356de51d451ce65395b7   // 小程序的发布上线流程
+
+https://ask.dcloud.net.cn/article/19601   // HBuilder X对vue的支持有多强？
+
+终端连接阿里云远程服务器骚命令 
+ssh root@xxxx (xxx 是公网 ip )
+cd ~        进入到默认路径
+ls -al      查看所有
+cd .ssh/
+ssh-keygen -t rsa -f wk-key   以加密方式创建 wk-key 和 wk-key.pub 到 ssh 下面
+scp wk-key.pub root@47.115.12.66:.    拷贝wk-key.pub 到远程服务器的默认路径下面，即 ~
+ssh root@47.115.12.66   连接服务器
+ls  查看远程是否拷贝成功
+exit 退出到本地
+touch config 新建配置文件
+rm wk-key.pub  删除这个文件，此时这个文件没用了
+code config 打开配置文件
+输入: 
+Host wangkai
+  HostName 47.115.12.66
+  port 22
+  User root
+  IdentityFile ~/.ssh/wk-key
+vim known_host   删除这个文件的服务器的00缓存
+ssh wangkai  配置好了连接服务器的脚本
+
+https://juejin.im/post/5cef46226fb9a07eaf2b7516#heading-6   一个合格的中级前端工程师需要掌握的 28 个 JavaScript 技巧
+
+https://huke88.com   虎课网
+
+https://juejin.im/post/5ecc87386fb9a047d245c7e1    // js 中的这些骚操作你都知道吗
+
+逐梦远航:
+https://juejin.im/post/5e44002c6fb9a07c9f3fd135  
+// 25个你不得不知道的数组reduce高级用法
+
+
+https://juejin.im/post/5c9c3989e51d454e3a3902b6#heading-0   
+// 「中高级前端面试」JavaScript手写代码无敌秘籍
+
+
+https://www.insideria.cn/     // 锐亚教育
+
+https://study.163.com/course/introduction.htm?courseId=1209595819&_trace_c_p_k2_=65badffe87c34b18af19778f9b3b77fe     // 网易高级前端开发系列直播课
+
+https://authenticator.cc/      //google身份验证器
+
+https://eslint.org/docs/rules/    //eslint核心规则
+https://palantir.github.io/tslint/rules/        //tslint.json 核心规则
+https://basarat.gitbooks.io/typescript/docs/project/tsconfig.html      //tsconfig.json 核心规则
+https://howtodoinjava.com/typescript/tsconfig-json/      //tsconfig.json 核心规则
+https://doc.ebichu.cc/jest/docs/zh-Hans/configuration.html#content     //jest.config.js 核心规则
+
+https://www.jianshu.com/p/96d7558e643b   //npm淘宝镜像
+
+一键删除本地有/但远程已经删除的分支：
+git remote prune origin
+
+https://juejin.im/post/5b90bb20e51d450e5519c2c7    //5分钟即可掌握的前端高效利器：JavaScript 策略模式
+
+git remote update origin -p      拉取遥远的远程分支
+
+可访问外网的浏览器  ---   威行浏览器
+
+jjqqkk         // github 访问外网
+
+bt-panel:  http://8.210.19.200:8888/6aef4e54/
+username:  wangkai
+password:  Cherish8023.1
+
+数据库名：rjkf_ltd
+用户：rjkf_ltd
+密码：3aMy3TMnzJPr72rX
+
+http://www.xiaoksw.com/h-col-116.html   // 消考网  报考一建二建证
+
+https://help.aliyun.com/knowledge_detail/112186.html      //  安装阿里大于 php sdk
+https://api.aliyun.com/?spm=a2c4g.11186623.2.12.2c996b8932Xt2R#/?product=Dysmsapi&lang=PHP   // 短信调试
+https://dysms.console.aliyun.com/dysms.htm?spm=a3142.8039393.0.0.41b81fd2TuvMzk#/domestic/text  // 阿里大于控制台
+阿里大于  AccessKeyId： AccessKeyId     AccessKeySecret： ONMuBnXFqDdp0fCZ3TRBUcuMoJymR4
+阿里大于用户: 
+AccessKey ID:
+LTAI4G1uG3CnijXnuZRB8QVb
+SECRET:
+8CPZkdv1PNMDHeHu52o72IA7vS5Ty2
+
+小程序地图 sdk key:  7ADBZ-V2RK2-F7DUM-CLPXX-VIF66-IVBLZ
+
+https://www.cnblogs.com/yinfei/p/11427259.html    // 安装 navicat for mysql 绿色版，含破解
+
+米斯特吴要学的课程: 
+https://study.163.com/course/introduction.htm?courseId=1209645837#/courseDetail?tab=1
+https://study.163.com/course/introduction/1209598981.htm?share=1&shareId=1021161575
+https://study.163.com/course/introduction.htm?courseId=1209426939&share=1&shareId=1021161575#/courseDetail?tab=1
+
+https://git.cszhx.top/users/sign_in     // gitlab 地址
+
+ // js正则 ?: 、 ?= 、 ?! 、 ?
+https://blog.csdn.net/weixin_33782386/article/details/91373084?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param   
+
+// websocket 视频链接
+https://ke.qq.com/course/355307?taid=2788043660815339  
+https://ke.qq.com/course/392127
+https://ke.qq.com/course/170275
+
+// websocket 测试链接，官方提供的
+ws://echo.websocket.org     
+
+// nuxt.js 项目实战
+https://study.163.com/course/introduction.htm?courseId=1210049925#/courseDetail?tab=1
+https://ke.qq.com/course/2803878
+
+flutter 视频教程: 
+https://ke.qq.com/course/418868?taid=3382230911444020
+https://ke.qq.com/course/435301?taid=3789217717462117
+https://ke.qq.com/course/455227?taid=4029478188020283
+https://ke.qq.com/course/428017?taid=3687547251623921
+
+it 学习论坛: 
+https://www.csdn.net/nav/web   // csdn 网站
+https://www.cnblogs.com/         // 博客园
+https://segmentfault.com/channel/frontend    // SegmentFault
+https://www.v2ex.com/     // v2ex
+https://www.oschina.net/     // OSCHINA
+https://blog.51cto.com/     // 51cto 博客
+https://gitbook.cn/chat/58e84f875295227534aad506       //  gitbook
+
+https://developer.github.com/v3/   // github 开发文档
+https://developer.github.com/v3/repos/#list-public-repositories   // github list-public-repos
+
+https://lbs.amap.com/api/javascript-api/reference/map   // 高德地图ａｐｉ　文档
+
+https://study.163.com/course/introduction/1209565808.htm     // react 源码视频
+https://study.163.com/course/introduction/1210146045.htm?share=1&shareId=1021161575   // react 源码视频
+
+https://www.cnblogs.com/yanmuxiao/p/8674241.html     // 常用正则表达式大全
+
+https://www.cnblogs.com/lshdashi/p/12158863.html     // webstorm 最新激活码——写自2020/1/6
+
+https://www.jianshu.com/p/d120ab55bfdd   // WebStorm 2019.3.1永久破解（2020.1.4）
+
+https://www.cnblogs.com/annong/p/12887102.html    // webStorm2020.1激活至2089年 ---2020年5月14日更新
+
+https://www.jianshu.com/p/4c81cf31b94d    // WebStorm2019永久破解方法
+
+https://www.bilibili.com/video/BV14k4y117LL/   【李南江】Vue3.0全新特性解读-2020年9月19号全网首发
+
+https://github.com/vuejs/vue-next/releases   // vue3.0 github 源码
+https://zhuanlan.zhihu.com/p/254219538   // vue3.0 release 译文
+https://v3.vuejs.org/guide/migration/introduction.html#overview     // vue3.0 文档
+
+https://git.lug.ustc.edu.cn/users/sign_in    // 个人在使用的 gitlab
+https://git.cszhx.top/users/sign_in    // 企业使用的 gitlab
+https://www.cnblogs.com/zhongchao666/p/11142537.html    // 在 vue 中使用富文本选择器 tinymce
+https://blog.csdn.net/qq_42597536/article/details/90056775    // vue中用echarts插件绘制水球图（水波纹增长图，波纹型百分比）
+http://dishaxy.com/doc/2/docnav/111   // 帝莎学院 api 接口文档
+https://www.jianshu.com/p/601042dae817    // d3实现 3d 饼图
+http://bl.ocks.org/NPashaP/9994181    // d3实现 3d 饼图
+https://www.highcharts.com.cn     // highchart
+https://www.cnblogs.com/chengxs/p/11406278.html      //css绘制 三角形
+
+qq邮箱: 99632463@qq.com
+网易邮箱: wangkai99632463@163.com
+公众号订阅号: brush.wang@starlight-sms.com / Cherish8023.1
+小程序账号: wangkai99632463@163.com / wk7330823123
+
+linux ubuntu 系统账号和密码:  wangkai / cherish8023.1
+
+linux 视频教程: 
+https://study.163.com/course/courseLearn.htm?courseId=1005735059#/learn/video?lessonId=1053035039&courseId=1005735059
+https://study.163.com/course/introduction.htm?courseId=1006452036#/courseDetail?tab=1
+https://study.163.com/course/introduction.htm?courseId=1003735005#/courseDetail?tab=1
+
+https://www.bilibili.com/read/cv7620634      // vmware 16 许可证密钥
+https://www.cnblogs.com/houzhiheng/p/12355936.html       // vmware  许可证密钥
+https://www.ypojie.com/6066.html    // vmware  许可证密钥
+
+https://zhuanlan.zhihu.com/p/76185096       //  NlP 逻辑层次
+
+https://nav.bqrlm.cn    // 前端导航页

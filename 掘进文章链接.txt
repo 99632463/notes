@@ -1,0 +1,25 @@
+https://juejin.im/post/6854818587820736526                // 解锁各种js数组骚操作，总有你想要的！
+https://juejin.im/post/6854573220306255880                // 最强大的 CSS 布局 —— Grid 布局
+https://juejin.im/post/6854573221417582600                // 那些前端开发必不可少的生产力工具
+https://color.hailpixel.com/                                           // colordot
+https://juejin.im/post/6855129007852093453                     // 「一劳永逸」送你21道高频JavaScript手写面试题
+https://mp.weixin.qq.com/s/y-zi68mP_7ucLF45eH2V4Q         //大部分教程都不会告诉你的12个js技巧
+https://juejin.im/post/5d0644976fb9a07ed064b0ca               //43道 js 面试题
+umaar.com/dev-tips/                                                      //chrome开发者工具各种骚技巧
+
+https://juejin.im/post/5d59f2a451882549be53b170           // vue 面试题
+https://juejin.im/post/5d5f44dae51d4561df7805b4           // react 面试题
+
+https://juejin.im/post/5e44002c6fb9a07c9f3fd135             // 25个你不得不知道的数组reduce高级用法
+https://juejin.im/post/5cc7afdde51d456e671c7e48            // 灵活运用JS开发技巧
+https://juejin.im/post/5e440fd4e51d4527271e8b79           // 2020必备VS Code 插件(内附 gif 图)
+https://juejin.im/post/5ecc87386fb9a047d245c7e1            // js 中的这些骚操作你都知道吗
+https://juejin.im/post/5cef46226fb9a07eaf2b7516#heading-6      //一个合格的中级前端工程师需要掌握的 28 个 JavaScript 技巧
+https://juejin.im/post/5b90bb20e51d450e5519c2c7            //   5分钟即可掌握的前端高效利器：JavaScript 策略模式
+https://juejin.im/post/6844904193589772301                     //   总结18个webpack插件，总会有你想要的！
+https://juejin.im/post/6850037261518684167                     //  「实用技巧」Chrome DevTools调试小技巧，效率
+https://juejin.im/post/6869659680496041991                     // 那些你总是记不住但又总是要用的css
+https://juejin.im/post/6869900346001457165                     // 糟糕，在错误的分支开发了新功能，该怎么处理呢？
+https://juejin.im/post/6869947649248722952                     // 【Vue原理】$nextTick源码分析   
+https://juejin.im/post/6868086607027650573                     // BetterScroll 2.0 发布：精益求精，与你同行
+

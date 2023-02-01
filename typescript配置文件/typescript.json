@@ -1,0 +1,56 @@
+{
+	"create a business": {
+		"prefix": "business",
+		"body": [
+			"import { IStoreContainer } from '@common/interface/base';\n",
+			"export const $1Business = ({ store }: IStoreContainer) => {",
+			"\tconst { } = store;\n",
+			"\tconst propsConnect = {",
+			"\t};\n",
+			"\tconst dispatchConnect = {",
+			"\t};\n",
+			"\treturn {",
+			"\t\t...propsConnect,",
+			"\t\t...dispatchConnect,",
+			"\t};",
+			"};\n",
+			"export interface I$1Business {\n",
+			"}"
+		],
+		"description": "create a business"
+	},
+	"creata a store": {
+		"prefix": "store",
+		"body": [
+			"import http, { Q } from '@http';",
+			"import { observable, action, runInAction } from 'mobx';\n",
+			"class $1Store {",
+			"\t@observable isLoading: boolean = false;\n",
+			"\t@action",
+			"\tasync get$2() {",
+			"\t\tthis.setLoading(true);",
+			"\t\tconst data = await this.api().get$2();",
+			"\t\trunInAction(() => {\n",
+			"\t\t});",
+			"\t\tthis.setLoading(false);",
+			"\t}\n",
+			"\t@action",
+			"\tsetLoading(isLoading: boolean) {",
+			"\t\tthis.isLoading = isLoading;",
+			"\t}\n",
+			"\tapi() {",
+			"\t\treturn {",
+			"\t\t\tget$2: (): Promise<string> => {",
+			"\t\t\t\treturn Q(",
+			"\t\t\t\t\thttp.get(''),",
+			"\t\t\t\t\t() => this.setLoading(false)",
+			"\t\t\t\t);",
+			"\t\t\t},",
+			"\t\t};",
+			"\t}",
+			"}\n",
+			"export default $1Store;"
+		],
+		"description": "create a store"
+	},
+}
