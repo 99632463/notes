@@ -9,7 +9,6 @@ react-lazy                      // react 懒加载
 rc-dialog                       //弹框
 react-draggable                 //拖拽 (react)
 interactjs                      //拖拽
-dropzone                        //附件上传
 react-slide                     //滑动 (react)
 react-slick                     //滑动 (react)
 viewerjs                        //图片放大
@@ -22,7 +21,7 @@ moment                          //日期时间
 numeral                         //数字格式化
 axios                           //请求
 jsonp                           //jsonp
-classnames                      //class name
+classnames                      //class name (react)
 del                             //清除，用于 gulp
 rc-form                         //表单验证
 react-custom-scrollbars         //滚动条  (react)
@@ -37,18 +36,14 @@ iScroll                         //移动端滑动库
 swiper                          //移动端轮播库
 serve                           // 启动一个服务器，运行生产环境
 mint-ui                         // vue UI库
-element-ui                      // vue UI库
 material ui                     // react ui 库
-ant design                      // react ui 库
 nodemon                         // nodemon
 validator                       // 验证
 bcrypt                          // 加密
-
+crypto                          // 加密 (不可逆)
+md5-node                        // 密码加密
 puppeteer                       // 自动化测试框架
-
-
 readlineSync                    // 用于通过控制台（TTY）交互运行以与用户进行对话
-
 webpack-bundle-analyzer         // 可查看所有库的容量
 chalk                           // 控制台文本可以指定样式
 webpack-stream                  // 与 gulp 配合  使 npm run resource 有 hash
@@ -57,7 +52,6 @@ http-server                     // 开启一个 ip 服务器，外部可访问
 anywhere                        // 指定端口，配合 http-server 使用
 sha1                            // 对文本内容进行加密
 xmlreader                       // 解析 xml 数据
-md5-node                        // 密码加密
 xml2js                          // 解析 xml
 merge-descriptors               // 合并模块
 rc-tooltip                      // tooltip
@@ -113,7 +107,9 @@ vue-seamless-scroll   // 上下无缝滚动，类似于那种广告上下滚动�
 vue-layer   // 一些弹框
 sortablejs   // 拖拽排序
 clipboard   // 复制粘贴
-driver.js   // 高亮某一块，可以做说明切换
 dropzone   // 可以拖拽上传文件
 vue-count-to   // 数字滚动
 draggable-el   // 整个窗口可以拖拽
+cesium-navigation-es6    // cesium 罗盘，缩放，距离
+mhtml-to-word   // 导出 word
+docxtemplate    // 强大的导出word (需要word模板)
