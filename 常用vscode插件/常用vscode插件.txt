@@ -33,3 +33,10 @@ easy less/scss   // less，scss 自动编译成 css
 px to rem & rpx & vw （cssrem）  // css 单位转换
 px to rpx,  px to -vw， rpx2vw，px2rem   // css 单位转换
 uniapp-snippet    // uni-app 片段展示
+text Edits   // 大小写转化快捷键
+aos  // 滚动条滚动实现动画
+skrollr  // 滚动条滚动实现动画，低级版，不推荐使用
+lax.js  // 滚动条滚动实现动画
+vue-grid-layout    // 可实现复杂的瀑布流布局
+vue-slider-component    // 非常强大的滑块动画
+ws  // 最强大的websocket库

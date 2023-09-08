@@ -113,3 +113,7 @@ draggable-el   // 整个窗口可以拖拽
 cesium-navigation-es6    // cesium 罗盘，缩放，距离
 mhtml-to-word   // 导出 word
 docxtemplate    // 强大的导出word (需要word模板)
+aos  // 滚动条滚动实现动画
+skrollr   // 滚动条滚动实现动画，低级版，不推荐使用
+lax.js  // 滚动条滚动实现动画
+vue-contextmenujs  自定义右键菜单
